@@ -28,42 +28,22 @@
 <!-- About Section -->
 # About Me 
 <p>
-* Rising Junior at Carnegie Mellon University
-* Major: Computer Science
-* Minor: Tech Entrpreneurship
-* Interests: System administration, cyber security, swimming, squash
+* Rising Junior at Carnegie Mellon University <br/>
+* Major: Computer Science <br/>
+* Minor: Tech Entrpreneurship <br/>
+* Interests: System administration, cyber security, swimming, squash <br/>
 
 Check out my <a href="https://systuner.com/blog">blog</a> to find my latest posts!
 
-
-
-
-
 </p>
 
-
-<br/>
-<br/>
-<br/>
-
-
-
-
-<br/>
 <hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/tvlpirb">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={tvlpirb}&theme={gruvbox}" alt="Talhah's Profile Detail Card"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tvlpirb&theme=gruvbox" alt="Talhah's Profile Detail Card"/>
   </a>
+        <br/>
 </p>
-
-<a> 
   
-<a href="https://github.com/tvlpirb"><img alt="Talhah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvlpirb&layout=compact&langs_count=8&theme=gruvbox" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
 
