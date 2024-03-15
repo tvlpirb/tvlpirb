@@ -28,7 +28,7 @@
 <!-- About Section -->
 # About Me 
 <p>
-* Rising Junior at Carnegie Mellon University <br/>
+* Rising Senior at Carnegie Mellon University <br/>
 * Major: Computer Science <br/>
 * Minor: Tech Entrpreneurship <br/>
 * Interests: System administration, cyber security, swimming, squash <br/>
