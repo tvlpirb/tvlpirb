@@ -41,9 +41,15 @@ Check out my <a href="https://systuner.com/blog">blog</a> to find my latest post
 
 <p align="center">
   <a href="https://github.com/tvlpirb">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tvlpirb&theme=gruvbox" alt="Talhah's Profile Detail Card"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tvlpirb&theme=moonlight" alt="Talhah's Profile Detail Card"/>
   </a>
+  <a href="https://github.com/tvlpirb">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tvlpirb&theme=moonlight" alt="Talhah's Profile Detail Card"/>
+  </a>
+  <a href="https://github.com/tvlpirb">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tvlpirb&theme=moonlight" alt="Talhah's Profile Detail Card"/>
+  </a>
+  
         <br/>
 </p>
   
-
