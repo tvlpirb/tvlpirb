@@ -18,10 +18,18 @@ Check out my [blog](https://systuner.com/blog) to find my latest posts!
 
 ## GitHub Stats
 
-[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tvlpirb&theme=moonlight)](https://github.com/tvlpirb)
+<p align="center">
+  <a href="https://github.com/tvlpirb">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tvlpirb&theme=moonlight" alt="Talhah's Profile Detail Card"/>
+  </a>
+  <a href="https://github.com/tvlpirb">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tvlpirb&theme=moonlight" alt="Languages"/>
+  </a>
+  <a href="https://github.com/tvlpirb">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tvlpirb&theme=moonlight" alt="Commit activity"/>
+  </a>
+  <a href="https://github.com/tvlpirb">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tvlpirb&theme=moonlight" alt="Stats"/>
+  </a>
 
-[![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tvlpirb&theme=moonlight)](https://github.com/tvlpirb)
-
-[![Commit Activity](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tvlpirb&theme=moonlight)](https://github.com/tvlpirb)
-
-[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tvlpirb&theme=moonlight)](https://github.com/tvlpirb)
+</p>
