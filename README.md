@@ -49,7 +49,9 @@ Check out my <a href="https://systuner.com/blog">blog</a> to find my latest post
   <a href="https://github.com/tvlpirb">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tvlpirb&theme=moonlight" alt="Talhah's Profile Detail Card"/>
   </a>
-  
-        <br/>
+  <a href="https://github.com/tvlpirb">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tvlpirb&theme=moonlight" alt="Talhah's Profile Detail Card"/>
+  </a>
+
 </p>
   
