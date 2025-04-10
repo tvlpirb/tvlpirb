@@ -14,7 +14,6 @@
 
 Check out my [blog](https://systuner.com/blog) to find my latest posts!
 
----
 
 ## GitHub Stats
 
