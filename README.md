@@ -7,7 +7,7 @@
 
 ## About Me
 
-- Senior at Carnegie Mellon University  
+- Recent Graduate from Carnegie Mellon University  
 - Major: Computer Science  
 - Minor: Tech Entrepreneurship  
 - Interests: System administration, cyber security, swimming, squash  
